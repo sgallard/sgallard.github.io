@@ -1,47 +1,47 @@
-cv:
-  name: Sebastián Gallardo Díaz
-  label: PhD Student
-  email: sebastian.gallardo-diaz@inria.fr
-  location: Nice, France
-  image: "foto.jpeg"
-  summary: Chilean PhD student at Université Côte d'Azur specializing in AI and metaheuristics for newspaper production optimization.
 
-  social_networks:
-    - network: LinkedIn
-      username: sgallardodiaz
+name: Sebastián Gallardo Díaz
+label: PhD Student
+email: sebastian.gallardo-diaz@inria.fr
+location: Nice, France
+image: "foto.jpeg"
+summary: Chilean PhD student at Université Côte d'Azur specializing in AI and metaheuristics for newspaper production optimization.
 
-  sections:
-    Education:
-      - institution: Universidad Técnica Federico Santa María
-        location: Valparaíso, Chile
-        area: Computer Science
-        studyType: Master
-        end_date: 2023 # [cite: 16, 17]
-        highlights:
-          - Advanced research in algorithmic optimization.
+social_networks:
+  - network: LinkedIn
+    username: sgallardodiaz
 
-      - institution: Universidad Técnica Federico Santa María
-        location: Valparaiso, Chile
-        area: Computer Science and Information Systems Engineering
-        studyType: Engineering Degree
-        end_date: 2021 # [cite: 18]
+sections:
+  Education:
+    - institution: Universidad Técnica Federico Santa María
+      location: Valparaíso, Chile
+      area: Computer Science
+      studyType: Master
+      end_date: 2023 # [cite: 16, 17]
+      highlights:
+        - Advanced research in algorithmic optimization.
 
-    Skills:
-      - name: Research & Optimization
-        level: Advanced
-        icon: fa-solid fa-microchip
-        keywords: "Combinatorial Optimization, Artificial Intelligence, Layouting Graphs, Algorithms" # [cite: 8, 9, 10, 11]
+    - institution: Universidad Técnica Federico Santa María
+      location: Valparaiso, Chile
+      area: Computer Science and Information Systems Engineering
+      studyType: Engineering Degree
+      end_date: 2021 # [cite: 18]
 
-      - name: Technical Stack
-        level: Expert
-        icon: fa-solid fa-code
-        keywords: "Python (PyTorch, Scikit-learn, Pandas), C++, LaTeX" # [cite: 13, 14, 28, 29]
+  Skills:
+    - name: Research & Optimization
+      level: Advanced
+      icon: fa-solid fa-microchip
+      keywords: "Combinatorial Optimization, Artificial Intelligence, Layouting Graphs, Algorithms" # [cite: 8, 9, 10, 11]
 
-    Languages:
-      - name: Spanish
-        icon: fa-solid fa-language
-        summary: "Native speaker" # [cite: 31]
+    - name: Technical Stack
+      level: Expert
+      icon: fa-solid fa-code
+      keywords: "Python (PyTorch, Scikit-learn, Pandas), C++, LaTeX" # [cite: 13, 14, 28, 29]
 
-      - name: English
-        icon: fa-solid fa-earth-americas
-        summary: "C2 Proficient" # [cite: 32]
+  Languages:
+    - name: Spanish
+      icon: fa-solid fa-language
+      summary: "Native speaker" # [cite: 31]
+
+    - name: English
+      icon: fa-solid fa-earth-americas
+      summary: "C2 Proficient" # [cite: 32]
