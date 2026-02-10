@@ -16,7 +16,7 @@ sections:
       location: Valparaíso, Chile
       area: Computer Science
       studyType: Master
-      end_date: 2023 # [cite: 16, 17]
+      end_date: 2023 
       highlights:
         - Advanced research in algorithmic optimization.
 
@@ -24,24 +24,24 @@ sections:
       location: Valparaiso, Chile
       area: Computer Science and Information Systems Engineering
       studyType: Engineering Degree
-      end_date: 2021 # [cite: 18]
+      end_date: 2021 
 
   Skills:
     - name: Research & Optimization
       level: Advanced
       icon: fa-solid fa-microchip
-      keywords: "Combinatorial Optimization, Artificial Intelligence, Layouting Graphs, Algorithms" # [cite: 8, 9, 10, 11]
+      keywords: "Combinatorial Optimization, Artificial Intelligence, Layouting Graphs, Algorithms" 
 
     - name: Technical Stack
       level: Expert
       icon: fa-solid fa-code
-      keywords: "Python (PyTorch, Scikit-learn, Pandas), C++, LaTeX" # [cite: 13, 14, 28, 29]
+      keywords: "Python (PyTorch, Scikit-learn, Pandas), C++, LaTeX" 
 
   Languages:
     - name: Spanish
       icon: fa-solid fa-language
-      summary: "Native speaker" # [cite: 31]
+      summary: "Native speaker"
 
     - name: English
       icon: fa-solid fa-earth-americas
-      summary: "C2 Proficient" # [cite: 32]
+      summary: "C2 Proficient" 
